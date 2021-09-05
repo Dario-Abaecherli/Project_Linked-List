@@ -1,0 +1,4 @@
+D:\Benutzer\dario\OneDrive - sluz\1_FMZ\Jahr2\ICT\VisualStudio\Projekte\C\Nico_Dario_VerketteteListe\x64\Debug\Nico_Dario_VerketteteListe.exe
+D:\Benutzer\dario\OneDrive - sluz\1_FMZ\Jahr2\ICT\VisualStudio\Projekte\C\Nico_Dario_VerketteteListe\x64\Debug\Nico_Dario_VerketteteListe.pdb
+C:\Users\vmadmin\OneDrive - sluz\1_FMZ\Jahr2\ICT\VisualStudio\Projekte\C\Nico_Dario_VerketteteListe\x64\Debug\Nico_Dario_VerketteteListe.exe
+C:\Users\vmadmin\OneDrive - sluz\1_FMZ\Jahr2\ICT\VisualStudio\Projekte\C\Nico_Dario_VerketteteListe\x64\Debug\Nico_Dario_VerketteteListe.pdb
